@@ -14,8 +14,10 @@
 ## What?
 
 The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations rather than for comfort: Prolonged use can lead to wrist pain, carpal tunnel syndrome, and other injuries.
-While many ergonomic keyboards are available, they are often intimidating for new users.
+And While there are many ergonomic keyboards available, they are often intimidating for new users.
+
 Fat Bee's concept is to implement all the proven ergonomic principles, moderately: Scientific studies have shown that even slight key splitting and tenting combined with a lower back angle can significantly reduce discomfort and potential long-term damage.
+
 Fat Bee offers ergonomic benefits in a package that looks and feels familiar, designed to be **approachable by users with varying typing techniques (or no typing technique at all**.
 
 ## Key features of the Fat Bee include:
