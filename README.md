@@ -8,7 +8,7 @@
 <img src="./fatbee.png" width="940" />
 </p>
 
-### Mixing a familiar layout sith scientifically-proven ergonomic principles
+### Mixing a familiar layout with scientifically-proven ergonomic principles
 
 
 ## What?
