@@ -9,19 +9,17 @@
 
 ## What?
 
-The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations, not for comfort: This can lead to wrist pain and other injuries with prolonged use.
+The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations, not for comfort. This can lead to wrist pain and other injuries with prolonged use.
 
-While ergonomic keyboards exist, they can be intimidating for new users.
+While ergonomic keyboards exist, they can be intimidating for new users. But here's the thing: Studies show that even slight key splitting, tenting, and a lower back angle can significantly reduce discomfort and potential injuries.
 
-But here's the thing: Studies show that even slight key splitting, tenting, and a lower back angle can significantly reduce discomfort and potential injuries.
-
-FatBee does exactly that: A little bit of everything, just enough to get more confort while keeping a familiar look and feel, designed to be **approachable by users with varying typing techniques (or no typing technique at all.)**
+FatBee does precisely that: A little bit of everything, just enough to get more comfort while keeping a familiar look and feel, designed to be **approachable by users with varying typing techniques (or no typing technique at all.)**
 
 ## What's in this repo?
 
 - 3D-print case & palmrest source.
 - PCB source (KiCad)
-- keyboard layout (standard keyboard-layout-editor.com json)
+- keyboard layout (standard keyboard-layout-editor.com JSON)
 
 ### Coming soon
 
@@ -36,7 +34,7 @@ FatBee does exactly that: A little bit of everything, just enough to get more co
 - Moderate tenting to avoid forearm pronation<br>
   **Why it matters:** When the palms of your hands face down, the bones in the forearms squeeze the carpal tunnel, potentially causing nerve and tendon issues.
 
-- Integrated palm rest and low back angle for improved wrist posture:<br>  
+- Integrated palm rest and low back angle for improved wrist posture:<br>
   **Why it matters:** When wrists are bent upwards (called wrist extension), it can restrict blood circulation, leading to pain, fatigue, and numbness. A palm rest shouldn't be an accessory but an integral keyboard part.
 
 - Centralized alphanumerics for intuitive positioning<br>
@@ -44,7 +42,12 @@ FatBee does exactly that: A little bit of everything, just enough to get more co
 
 ## One thing led to another...
 
-Splitting the keys at an angle while keeping them familiar-looking required a few tricks: centralizing the alphas, adding the signature "fat" B key, and a shorter stagger between the rows R2-R3.
+Splitting the keys at an angle while keeping them familiar-looking required a few tricks:
+
+- Centralizing the alphas
+- Adding the signature "fat" B key
+- A shorter stagger between the rows R2-R3
+
 While these met the goal of familiarity, what makes this layout remarkable is that these exact constraints directly led to some very unique features.
 For one, it looks cool! But for a more concrete example, after centralizing the alphas, I was left with some unusual empty space on the left, which led to an additional key column. Think of it as a mini macro pad. It has:
 
@@ -53,6 +56,11 @@ For one, it looks cool! But for a more concrete example, after centralizing the 
 - The function key, followed by three buttons that pair with it, creates a convenient "control center"<br>
   Volume control (Tap to increase, Fn+tap to decrease), Brightness (same principle), and App cycling (Mimics CMD+Tab and CMD+Shift+Tab).
 
+## Prior art
+
+- Apple keyboards - I know this sounds weird, given that Apple doesn't make ergonomic keyboards nowadays, but what they have been doing since the 90s is slowly reducing the stagger between rows R2 and R3. Could it be just for aesthetics? Sure, still, it does pave the way...
+- Jones keyboard layout ([GitHub](https://github.com/jpskenn/Jones)) - Combines centralized alphanumerics with non-staggered rows R2-R3.
+- Logitech Wave keys ([Logitech.com](https://www.logitech.com/en-us/products/keyboards/wave-keys.html)) - Despite feeling mushy and cheap, it does deliver great ergonomic improvements while still looking familiar.
 
 ## License
 
