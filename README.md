@@ -4,18 +4,31 @@
 <img src="./fatbee.png" width="940" />
 </p>
 
-FatBee is a low-profile mechanical keyboard that mixes a familiar layout with scientifically-proven ergonomic principles.
+### FatBee is a low-profile mechanical keyboard that mixes a familiar layout with scientifically-proven ergonomic principles.
+
 
 ## What?
 
-The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations rather than for comfort: Prolonged use can lead to wrist pain, carpal tunnel syndrome, and other injuries.
-And while there are many ergonomic keyboards available, they are often intimidating for new users.
+The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations, not for comfort: This can lead to wrist pain and other injuries with prolonged use.
 
-Fat Bee does a little bit of everything: Scientific studies have shown that even slight key splitting and tenting combined with a lower back angle can significantly reduce discomfort and potential long-term damage.
+While ergonomic keyboards exist, they can be intimidating for new users.
 
-This allows for a familiar look and feel, designed to be **approachable by users with varying typing techniques (or no typing technique at all.)**
+But here's the thing: Studies show that even slight key splitting, tenting, and a lower back angle can significantly reduce discomfort and potential injuries.
 
-## Characteristics
+FatBee does exactly that: A little bit of everything, just enough to get more confort while keeping a familiar look and feel, designed to be **approachable by users with varying typing techniques (or no typing technique at all.)**
+
+## What's in this repo?
+
+- 3D-print case & palmrest source.
+- PCB source (KiCad)
+- keyboard layout (standard keyboard-layout-editor.com json)
+
+### Coming soon
+
+- ZMK profile (working on it)
+
+
+## FatBee's Characteristics
 
 - Gently split layout for a natural typing position<br>
   **Why it matters:** The posture where the wrist bends outward towards the little finger (called Ulnar Deviation) is a common cause of repetitive strain injuries.
@@ -40,15 +53,6 @@ For one, it looks cool! But for a more concrete example, after centralizing the 
 - The function key, followed by three buttons that pair with it, creates a convenient "control center"<br>
   Volume control (Tap to increase, Fn+tap to decrease), Brightness (same principle), and App cycling (Mimics CMD+Tab and CMD+Shift+Tab).
 
-## What's in this repo?
-
-- 3D print case
-- PCB (KiCad)
-- keyboard layout (standard keyboard-layout-editor.com json)
-
-## Coming soon
-
-- ZMK profile (working on it)
 
 ## License
 
