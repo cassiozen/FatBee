@@ -1,8 +1,15 @@
-# PCB
+The PCB is supposed to be bended to accomodate for the 3 different tenting angles. It has a cutting pattern on the middle to facilitate this, and should be manufactured with 0.6mm thickness.
 
-These are KiCad source for FatBee's PCB. Is uses a virtual row/columns and connects to a Nice!nano or compatible microcontroller board.
+# PCB characteristics:
 
-The PCB is supposed to be bended to accomodate for the 3 different tenting angles: It has a cutting pattern on the middle to facilitate bending, and should be manufactured with 0.6mm thickness.
+- Kailh sockets for hot swaping
+- Header pins to connect a Nice!nano or compatible microcontroller board.
+- 
+
+# Grid
+
+To optimize the number of required pins, the PCB is wired in a virtual row/column matrix with 7 columns and 10 rows. The columns are wired in pairs, meaning each virtual column spans across two physical key columns. The left side of the PCB is exclusively wired to the odd-numbered rows, while the right side is wired exclusively to the even-numbered rows.
+
 
 ## Warning
 
@@ -14,18 +21,9 @@ There are three constraints:
 
 - Make it bend
 - Make it sturdy enough for hotswap to work
-- Make is out of common materials (so one can use services like PCBWay or JLCPCB...)
+- Make it practical, using common materials and manufacturing practices (so one can use services like PCBWay or JLCPCB...)
 
-Possible Solutions:
+<img width="400" alt="venn" src="https://github.com/user-attachments/assets/2d2861b0-56b2-43f6-b3f8-4a43b080d99d">
 
-- Sturdy + Common materials: Well, the default materials aready are sturdy enougn...
-- Bend + Sturdy: Hybrid PCV (semi-flex with hardened areas)
-- Bend + Common materials: Standard PCB material, but make it thin...
-- Bend + Sturdy + Common materials...
-
-![shrug-confused](https://github.com/user-attachments/assets/3e9874bd-679f-4b5f-b467-6cdfd6bef180)
-
-I don't know... Have you tried putting a lot of screws?
-- 
-
-
+> "I don't know... Have you tried a thin PCB with, like, lots of screws?".
+>> Brain cell on the back, hand raised, a little bit ashamed of the suggestion.
