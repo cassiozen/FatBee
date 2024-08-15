@@ -63,7 +63,4 @@ For one, it looks cool! But for a more concrete example, after centralizing the 
 - Logitech Wave keys ([Logitech.com](https://www.logitech.com/en-us/products/keyboards/wave-keys.html)) - Despite feeling mushy and cheap, it does deliver great ergonomic improvements while still looking familiar.
 
 ## License
-
-<a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0</a>, meaning you can use it, remix, adapt, but not sell as a product (If you want to sell a kit or finished product, get in touch at cassiozen (at) gmail com.)
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" height="30">
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W V2).
