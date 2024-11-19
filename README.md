@@ -4,43 +4,38 @@
 <img src="./fatbee.png" width="940" />
 </p>
 
-### FatBee is a low-profile mechanical keyboard that mixes a familiar layout with scientifically-proven ergonomic principles.
+### FatBee is a low-profile mechanical keyboard that mixes a familiar layout with scientifically proven ergonomic principles.
 
 
 ## What?
 
-The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations, not for comfort. This can lead to wrist pain and other injuries with prolonged use.
+The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations, not for comfort - And while ergonomic keyboards exist, they are often intimidating for new users.
 
-While ergonomic keyboards exist, they can be intimidating for new users. But here's the thing: Studies show that even slight key splitting, tenting, and a lower back angle can significantly reduce discomfort and potential injuries.
+But they don't have to: Research shows that combining multiple ergonomic features — even in small doses — is more effective than going extreme on any single one. FatBee takes this balanced approach: subtle improvements across the board that add up to real comfort while keeping a familiar look and feel, **approachable by users with varying typing techniques (or no typing technique at all.)**
 
-FatBee does precisely that: A little bit of everything, just enough to get more comfort while keeping a familiar look and feel, designed to be **approachable by users with varying typing techniques (or no typing technique at all.)**
 
 ## What's in this repo?
 
-- 3D-print case & palmrest source.
+- 3D-print case & palm rest source
 - PCB source (KiCad)
-- keyboard layout (standard keyboard-layout-editor.com JSON)
-
-### Coming soon
-
-- ZMK profile (working on it)
-
+- Keyboard layout (standard keyboard-layout-editor.com JSON)
+- ZMK profile (coming soon)
 
 ## FatBee's Characteristics
 
 - Gently split layout for a natural typing position<br>
-  **Why it matters:** The posture where the wrist bends outward towards the little finger (called Ulnar Deviation) is a common cause of repetitive strain injuries.
+  **Why it matters:** Reduces ulnar deviation, a common cause of wrist strain.
 
 - Moderate tenting to avoid forearm pronation<br>
-  **Why it matters:** When the palms of your hands face down, the bones in the forearms squeeze the carpal tunnel, potentially causing nerve and tendon issues.
+  **Why it matters:** Keeps your forearm bones from squeezing the carpal tunnel.
 
-- Integrated palm rest and low back angle for improved wrist posture:<br>
-  **Why it matters:** When wrists are bent upwards (called wrist extension), it can restrict blood circulation, leading to pain, fatigue, and numbness. A palm rest shouldn't be an accessory but an integral keyboard part.
+- Integrated palm rest and low back angle<br>
+  **Why it matters:** Prevents wrist extension that can restrict circulation and cause fatigue.
 
-- Centralized alphanumerics for intuitive positioning<br>
+- Centralized alphanumerics<br>
   **Why it matters:** Proper keyboard alignment with your body reduces unnecessary reaching and twisting, which can contribute to shoulder and upper back strain.
 
-## One thing led to another...
+## Mini control center
 
 Splitting the keys at an angle while keeping them familiar-looking required a few tricks:
 
@@ -48,13 +43,13 @@ Splitting the keys at an angle while keeping them familiar-looking required a fe
 - Adding the signature "fat" B key
 - A shorter stagger between the rows R2-R3
 
-While these met the goal of familiarity, what makes this layout remarkable is that these exact constraints directly led to some very unique features.
-For one, it looks cool! But for a more concrete example, after centralizing the alphas, I was left with some unusual empty space on the left, which led to an additional key column. Think of it as a mini macro pad. It has:
+These design decisions led to some happy accidents, like the unusual space on the left side that ended up becoming a mini control center, complete with:
 
 - An escape key directly aligned with the numeric row<br>
-  I love compact layouts. Still, as a software engineer, I heavily use "Esc, "~", and" ', so it's nice to have them all readily accessible and not in a separate layer.
+ (I love compact layouts, but having "~", and "'" readily accessible instead of a separate layer is 💯)
 - The function key, followed by three buttons that pair with it, creates a convenient "control center"<br>
-  Volume control (Tap to increase, Fn+tap to decrease), Brightness (same principle), and App cycling (Mimics CMD+Tab and CMD+Shift+Tab).
+ Volume control (Tap to increase, Fn+tap to decrease), Brightness (same principle), and App cycling (Mimics CMD+Tab and CMD+Shift+Tab).
+ 
 
 ## Prior art
 
