@@ -13,6 +13,11 @@ The keyboard design we use today is a relic from the 1800s, created to overcome 
 
 But they don't have to: Research shows that combining multiple ergonomic features — even in small doses — is more effective than going extreme on any single one. FatBee takes this balanced approach: subtle improvements across the board that add up to real comfort while keeping a familiar look and feel, **approachable by users with varying typing techniques (or no typing technique at all.)**
 
+## Gallery
+
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/25390f23-58d9-4b0c-93b7-53371545255d" width="940" />
+</p>
 
 ## What's in this repo?
 
