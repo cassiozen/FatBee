@@ -1,7 +1,7 @@
 # Fat Bee 🐝
 
 <p align="center" width="100%">
-<img src="https://github.com/user-attachments/assets/3072480b-5823-4e87-b951-b728cfd4bcf8" width="940" />
+<img src="./fatbee.png" width="940" />
 </p>
 
 ### FatBee is a low-profile mechanical keyboard that mixes a familiar layout with scientifically proven ergonomic principles.
