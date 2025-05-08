@@ -1,17 +1,21 @@
 # Fat Bee 🐝
 
+## A familiar keyboard with unfamiliar comfort
+
 <p align="center" width="100%">
-<img src="./fatbee.png" width="930" />
+  <img src="./fatbee.png" width="930" />
 </p>
 
-### FatBee is a low-profile mechanical keyboard that mixes a familiar layout with scientifically proven ergonomic principles.
-
+**Fat Bee** is a compact mechanical keyboard that takes a gentle, scientific approach to ergonomics without making you relearn how to type.
 
 ## What?
 
-The keyboard design we use today is a relic from the 1800s, created to overcome mechanical limitations, not for comfort - And while ergonomic keyboards exist, they are often intimidating for new users.
+The keyboard layout we use today is ancient. Literally. It was designed in the 1800s to keep typewriters from jamming — not to keep your wrists from hurting.
 
-But they don't have to: Research shows that combining multiple ergonomic features — even in small doses — is more effective than going extreme on any single one. FatBee takes this balanced approach: subtle improvements across the board that add up to real comfort while keeping a familiar look and feel, **approachable by users with varying typing techniques (or no typing technique at all.)**
+Modern ergonomic keyboards try to fix that, but many go too far. Curved key wells, columnar layouts, and deep splits can help *if* you’re willing to adapt. Most people aren't.
+
+**Fat Bee bridges the gap between comfort and familiarity.**
+It's the kind of keyboard you can sit down at and just start using — whether you hunt and peck, type with two fingers, or mastered touch typing in high school.
 
 ## Gallery
 
@@ -28,39 +32,50 @@ But they don't have to: Research shows that combining multiple ergonomic feature
 
 ## FatBee's Characteristics
 
-- Gently split layout for a natural typing position<br>
-  **Why it matters:** Reduces ulnar deviation, a common cause of wrist strain.
+### 👐 Gently split layout  
 
-- Moderate tenting to avoid forearm pronation<br>
-  **Why it matters:** Keeps your forearm bones from squeezing the carpal tunnel.
+Just enough angle to align your hands naturally.  
+**Reduces ulnar deviation** — that awkward wrist bend that causes strain over time.
 
-- Integrated palm rest and low back angle<br>
-  **Why it matters:** Prevents wrist extension that can restrict circulation and cause fatigue.
+### 🏕️ 5.5° tenting
 
-- Centralized alphanumerics<br>
-  **Why it matters:** Proper keyboard alignment with your body reduces unnecessary reaching and twisting, which can contribute to shoulder and upper back strain.
+Raises the inner edge of the keyboard to match your forearm's natural rotation.  
+**Avoids pronation**, keeps your forearm bones from squeezing the carpal tunnel.
 
-## Mini control center
+### 🛏️ Built-in palm rest + low rear angle
 
-Splitting the keys at an angle while keeping them familiar-looking required a few tricks:
+Supports your hands without forcing your wrists to bend upward.  
+**Prevents wrist extension**, a common source of fatigue.
 
-- Centralizing the alphas
-- Adding the signature "fat" B key
-- A shorter stagger between the rows R2-R3
+### 🧲 Centralized alphas
 
-These design decisions led to some happy accidents, like the unusual space on the left side that ended up becoming a mini control center, complete with:
+Alphanumerics are dead center, not off to the left side.  
+**Keeps your arms and shoulders aligned** with your body.
 
-- An escape key directly aligned with the numeric row<br>
- (I love compact layouts, but having "~", and "'" readily accessible instead of a separate layer is 💯)
-- The function key, followed by three buttons that pair with it, creates a convenient "control center"<br>
- Volume control (Tap to increase, Fn+tap to decrease), Brightness (same principle), and App cycling (Mimics CMD+Tab and CMD+Shift+Tab).
- 
+## The control cluster you didn’t know you needed
 
-## Prior art
+While redesigning the layout, something unexpected happened.
 
-- Apple keyboards - I know this sounds weird, given that Apple doesn't make ergonomic keyboards nowadays, but what they have been doing since the 90s is slowly reducing the stagger between rows R2 and R3. Could it be just for aesthetics? Sure, still, it does pave the way...
-- Jones keyboard layout ([GitHub](https://github.com/jpskenn/Jones)) - Combines centralized alphanumerics with non-staggered rows R2-R3.
-- Logitech Wave keys ([Logitech.com](https://www.logitech.com/en-us/products/keyboards/wave-keys.html)) - Despite feeling mushy and cheap, it does deliver great ergonomic improvements while still looking familiar.
+By centering the keys and adjusting row spacing, we created a weird little negative space on the left. Instead of ignoring it, we filled it with function:
+
+- **Escape**, aligned with the numeric row
+  (no layer gymnastics for `~` and `'`)
+- **Fn key + 3 utility buttons**:
+  - Volume up (tap), volume down (Fn+tap)  
+  - Brightness up/down  
+  - App switcher (like Cmd+Tab / Shift+Cmd+Tab)
+
+## Specs
+
+- 69 keys, number row, arrow cluster
+- Low-profile Choc switches
+
+## Inspiration
+
+- **Apple keyboards** – Subtly decreasing row stagger (between rows R2 and R3) since forever. Probably for style. Still, it adds up - used on FatBee.  
+- **[Jones layout](https://github.com/jpskenn/Jones)** – Combines centralized alphanumerics with non-staggered rows R2-R3.
+- **[Logitech Wave](https://www.logitech.com/en-us/products/keyboards/wave-keys.html)** - Despite feeling mushy and cheap, it does deliver great ergonomic improvements while still looking familiar.
 
 ## License
+
 CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W V2).
